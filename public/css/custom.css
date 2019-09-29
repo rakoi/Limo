@@ -1,0 +1,97 @@
+body{
+	font-size:2em;
+	font-family: laura;
+}
+.nav a{
+	color: red;
+}
+.nav a:hover{
+	background-color: white;
+}
+nav{
+	background-color:#eee;
+}
+.brand{
+	color: red;
+	padding-right: 10px;
+}
+.body{
+	padding-top: 3%;
+}
+.glyphicon{
+	
+}
+.pagination{
+	padding-top: 20px;
+}
+.searchform{
+	padding-top: 5px;
+}
+.profile-img{
+	width: 60px;
+	height: 50px;
+}
+.glyphicon{
+	
+}
+textarea{
+	width: 20px;
+}
+.disabled{
+	background-color:#c0a3a3;
+}
+.btn-default{
+	background-color: red;
+	color:white;
+	font-size:0.8em;
+}
+.viewallcomments{
+	color: gray;
+}
+.stalkbutton{
+	width: 10%;
+}.persondetails{
+	padding-top: 12px;
+	padding-left: 10px;
+}
+.profilelink{
+	padding-left: 10px;
+	padding-right: 4px;
+}
+.badge{
+	padding-left:8px;
+	padding-right:5px;
+}
+.allcomments{
+	padding-top: 4%;
+	font-size: 0.8em;
+
+}
+#allcomments{
+	padding-top: 4%;
+	font-size: 0.8em;
+
+}
+.comment{
+	padding-left: 10%;
+	font-size: 0.8em;
+}
+.viewallcomments{
+	color: #337ab7;
+}
+#hideallcomments{
+	color: #337ab7;
+}
+#notifications{
+	padding-top: 40px;
+	border-spacing: 20px;
+	padding-bottom: 40px;
+	width:200%;
+}
+#liked{
+	color: red;
+	
+}
+#disliked {
+	color: green;
+}

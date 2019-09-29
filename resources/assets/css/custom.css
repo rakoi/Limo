@@ -1,0 +1,59 @@
+body{
+	font-size:2em;
+	font-family: laura;
+	
+	
+}
+.nav a{
+	color: red;
+}
+.nav a:hover{
+	background-color: white;
+}
+nav{
+	background-color:#eee;
+}
+.brand{
+	color: red;
+	padding-right: 10px;
+}
+.body{
+	padding-top: 3%;
+}
+.glyphicon{
+	padding-left: 12px;
+}
+.pagination{
+	padding-top: 20px;
+}
+.searchform{
+	padding-top: 5px;
+}
+.profile-img{
+	width: 60px;
+	height: 50px;
+}
+.glyphicon{
+	color: red;
+}
+textarea{
+	width: 20px;
+}
+.disabled{
+	background-color:#c0a3a3;
+}
+.btn-default{
+	background-color: red;
+	color:white;
+	font-size:0.8em;
+}
+.viewallcomments{
+	color: red;
+}
+.stalkbutton{
+	width: 10%;
+}
+.persondetails{
+	padding-top: 12px;
+	color: red;
+}
